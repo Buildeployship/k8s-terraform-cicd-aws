@@ -1,4 +1,4 @@
-# ADR-NNN — <decision statement>
+# ADR-NNN — decision statement
 
 ## Status
 Accepted | Proposed | Deprecated | Superseded
