@@ -26,4 +26,4 @@ COPY app/main.py .
 USER appuser
 
 EXPOSE 8080
-CMD ["python3", "main.py"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "main:app"]

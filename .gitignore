@@ -1,13 +1,8 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-
 # Virtual environment
 .venv/
 venv/
 
-# Terraform (you'll need these in Phase 3)
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
